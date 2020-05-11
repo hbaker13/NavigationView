@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home" android:title="Home" android:icon="@drawable/home"/>
+    <item android:id="@+id/basket" android:title="Basketball" android:icon="@drawable/basket"/>
+    <item android:id="@+id/soccer" android:title="Soccer" android:icon="@drawable/bola"/>
+    <item android:id="@+id/volley" android:title="Volleyball" android:icon="@drawable/volley"/>
+
+
+
+
+</menu>
